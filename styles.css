@@ -1,0 +1,51 @@
+
+  body{
+    font-family:helvetica,sans-serif;
+    font-size:150%;
+background-color:#299EFB;
+  }
+  input{
+    height:40px;
+    padding:5px 5px 10px 5px;
+    font-size:25px;
+    border-radius:5px;
+    border:1px solid grey;
+    margin-top:10px;
+    background-color:#F2F2F2;
+  }
+  label{
+    position:relative;
+    top:20px;
+    width:250px;
+  float:left;
+
+
+  }
+  #wrapper{
+    width:600px;
+    margin:0 auto;
+    border-radius:15px;
+background-color:white;
+margin-top:150px;
+padding:10px;
+  }
+  .form-elements{
+    margin:10px;
+
+  }
+  #sumbit-button{
+    margin-left:300px;
+    background-color:#EF8D34;
+    color:white;
+    width:200px;
+  }
+  #error{
+    color:red;
+  }
+  #success{
+    color:green;
+  }
+  h1{
+    font-size:80%;
+    text-align:center;
+  }
